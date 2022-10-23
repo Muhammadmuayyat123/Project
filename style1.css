@@ -1,0 +1,14 @@
+.jumbotron{
+	padding: 2rem 1rem;
+	background-color: #1E5128;
+}
+
+#jurusan{
+	padding-top: 2rem;
+	background-color: #78938A;
+}
+
+.row{
+	justify-content: center;
+}
+
